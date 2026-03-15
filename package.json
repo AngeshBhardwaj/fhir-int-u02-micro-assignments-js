@@ -1,0 +1,16 @@
+{
+  "name": "fhir-int-u02-micro-assignments",
+  "version": "1.0.0",
+  "description": "Micro assignment workbook for Unit 02 (FHIR Clients) of FHIR Intermediate Course 2026 - JS Version",
+  "license": "MIT",
+  "author": "Angesh B",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "fhir-kit-client": "^1.9.2"
+  }
+}
